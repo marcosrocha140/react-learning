@@ -7,6 +7,7 @@ function App() {
   return (
     <div className="App">
       <Phrases/>
+      <h1>Segundo Tituio</h1>
       <Nav/>
     </div>
   );
